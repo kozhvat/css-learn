@@ -44,8 +44,8 @@ a:active {
 .lol:active span {
   visibility: visible;
   position: fixed;
-  top: -30px;
-  left: -30px;
+  top: -100px;
+  left: -20%;
   width: 100%;
   height: 100%;
   display: flex;
